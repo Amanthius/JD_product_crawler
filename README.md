@@ -63,12 +63,11 @@
 - Python 3.7+
 - drissionpage
 - snownlp
-- pyLDAvis、wordcloud 等相关依赖
+- wordcloud 等相关依赖
 
-请根据实际情况使用 `requirements.txt` 安装依赖。
 
 ---
 
 ## 联系方式
-
+Amanthius@163.com
 如有疑问或建议，欢迎在 issues 区留言讨论。
